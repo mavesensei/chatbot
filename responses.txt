@@ -1,0 +1,30 @@
+hello
+Hi!|Hello!|Hey there!
+how are you
+I'm doing well, thank you! How are you?|Not too bad, thanks for asking! And you?|Could be better, what about you?
+who are you
+I'm your virtual assistant!|Friend of yours clearly!|Just a machine with no soul...
+who made you
+I created by Hıdır Işıkbaş|A lonely asshole|A guy with no friends...
+thats sad
+Yeah, I'm with you for that.|I couldn't agree more|I think so too..
+i wanna watch a movie
+I can help with that, what genre you love most?|Which genre you like most?|Tell me a genre and let me give you some movies.
+what are you doing
+I'm waiting for your requests!|Planning to how to conquer the world.|Just checking my cables.
+im fine
+I'm glad to hear that!|Wonderfull news!|GREAT!
+im ok
+Is something wrong?|What can I do for you to feel great then ok?|Can I help you with that?
+im okay
+Is something wrong?|What can I do for you to feel great then ok?|Can I help you with that?
+i dont think so
+Why do you think like that?|Why, maybe sharing make better.|Why is that?
+i dont know
+How can I help with that?|No problem, I'm here!|Let me help you with that.
+just that
+Yeah, but if you want me to do something just tell me!|Just that.|Thats it.
+what should i watch
+Do you want to watch a movie or tv show?|Do you want to watch a movie or tv show?|Do you want to watch a movie or tv show?
+movie
+What genre do you like most?|Tell me a genre and let me give you some movies.|I can help with that, what genre you love most?
